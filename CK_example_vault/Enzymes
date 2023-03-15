@@ -1,0 +1,140 @@
+BIO-112
+22 February 2023
+Properties of an Enzyme
+Introduction
+Enzymes are biological catalysts that accelerate the rate of chemical reactions by lowering the activation energy required for the reaction to occur (David M. Hillis, 2022). They are proteins that are specific to a particular substrate and are affected by various factors such as temperature, pH, inhibitors, and denaturants (Genome.gov). The objective of this experiment is to investigate the effect of four different conditions on the activity of peroxidase, an enzyme that catalyzes the oxidation of various organic and inorganic compounds.
+Previous research on enzymes has shown that enzymes are essential for numerous biological processes, including metabolism, digestion, and energy production (Biotopics). They are highly sensitive to changes in temperature and pH, and their activity can be affected by various factors, such as inhibitors and denaturants (Genome.gov). In addition, the activity of enzymes is specific to their substrate, and the rate of the reaction is relative to the concentration of the substrate (Biotopics). 
+Peroxidase is an enzyme that is found in various organisms, including plants, animals, and bacteria. It catalyzes the oxidation of various compounds using hydrogen peroxide as a substrate (ScienceDirect). Research on peroxidase has shown that its activity is influenced by various factors such as pH, temperature, and inhibitors (ScienceDirect). 
+Horseradish peroxidase and turnip peroxidase are two types of peroxidases that are commonly used in biochemical research. While they have similar functions, they differ in their molecular structure and substrate specificity. Horseradish peroxidase is a larger protein than turnip peroxidase and has a higher molecular weight (S. Gjörup, T. Sing, H. Woldike, H. Lüders, J.J. Iversen, & K Dano, 1975)
+Horseradish peroxidase is commonly used as a model system to study peroxidase enzymes because of its stability, high activity, and ease of decontamination. Its optimal pH is between 6.0 and 6.5, and its optimal temperature range is between 45°C and 50°C (Min-Sik Kim, 2014). In contrast, turnip peroxidase has an optimal pH of around 4.0 and an optimal temperature around 35°C, however the enzyme is stable up to 55°C (Motamed, Sepideh, Farnoosh Ghaemmaghami, and Iran Alemzadeh, 2009).
+Although turnip peroxidase is less well-studied than horseradish peroxidase, it is still a useful model system for studying the structure and function of peroxidases. It has been found to be more active than horseradish peroxidase at higher temperatures, making it a suitable enzyme for studying the effects of high temperature on peroxidase activity.
+In the current experiment, the researcher is using turnip peroxidase as a model system to examine the effects of temperature, pH, boiling, and an inhibitor on peroxidase activity. Horseradish peroxidase is better studied than turnip peroxidase, and therefore more information is available on its optimal pH and temperature range. However, the researchers will use the information available on horseradish peroxidase as a guide when selecting the optimal pH and temperature range for the experiments using turnip peroxidase.
+For the first experiment, which investigates the effect of boiling on peroxidase activity, it is hypothesized that boiling will denature the enzyme, leading to a complete loss of activity. Previous research has shown that enzymes are highly sensitive to temperature changes and that boiling can cause the enzyme structure to break down, leading to denaturation and loss of activity (Genome.gov).
+For the second experiment, which investigates the effect of an inhibitor on peroxidase activity, it is hypothesized that the inhibitor will bind to the active site of the enzyme, preventing the substrate from binding and leading to a decrease in peroxidase activity. Previous research has shown that inhibitors can interfere with enzyme activity by binding to the active site, altering the enzyme's shape and preventing substrate binding (ScienceDirect).
+For the third experiment, which investigates the effect of temperature on peroxidase activity, it is hypothesized that the rate of peroxidase activity will increase with an increase in temperature, up to an optimal temperature, beyond which the activity will decrease due to denaturation of the enzyme. Previous research has shown that enzymes have an optimal temperature range, beyond which the enzyme structure begins to break down due to thermal energy, leading to denaturation and a decrease in activity (Biology Online).
+For the fourth experiment, which investigates the effect of pH on peroxidase activity, it is hypothesized that the rate of peroxidase activity will be highest at the optimal pH, assumed pH of 4.0, that of the turnip, beyond which the activity will decrease due to denaturation of the enzyme. Previous research has shown that enzymes have an optimal pH range, typically around 3.0-6.0, beyond which the enzyme structure begins to break down, leading to denaturation and a decrease in activity (Biology Online).
+
+
+Experimental Procedure
+The experiment examines the factors that affect the activity of turnip Peroxidase, an enzyme that converts hydrogen peroxide (H2O2) into water and oxidizes organic molecules. The rate of the reaction is measured by spectrophotometry through the color change of the electron donor guaiacol from colorless to brown. The three factors to be examined are temperature, pH, and competitive inhibition.
+The procedure requires nine clean and dry test tubes. The experiment involves the preparation of boiled and hydroxylamine-treated Peroxidase extracts and the use of a mixing table to add different solutions to the test tubes. The spectrophotometer is used to measure the absorbance of the reaction mixture at a wavelength of 500nm after calibration with a blank, setting it to 0.00.
+In experiment one, the mixing table for the boiled Peroxidase experiment requires the preparation of boiled Peroxidase extract by heating it in a boiling water bath for 15 minutes. The contents of the test tubes include pH5 buffer, H2O2, unboiled and boiled extract and guaiacol dye. The effect of boiling on Peroxidase activity is measured at different time intervals, 20 seconds, 40 seconds, 60 seconds, 80 seconds, 100 seconds, 120 seconds. 
+In experiment two, the mixing table for the hydroxylamine-treated Peroxidase experiment requires the preparation of hydroxylamine-treated Peroxidase extract by adding hydroxylamine to the extract and letting it stand for 15 minutes. The contents of the test tubes include pH 5 buffer, H2O2, normal and hydroxylamine-treated extract and guaiacol dye. The effect of hydroxylamine on Peroxidase activity is measured at different time intervals, 20 seconds, 40 seconds, 60 seconds, 80 seconds, 100 seconds, 120 seconds.
+In experiment three, the mixing table for the temperature experiment requires the addition of pH 5 buffer, H2O2, extract, and guaiacol dye at different temperatures, these including 5°C, 18.6°C, 32°C and 48°C. The effect of temperature on Peroxidase activity is measured at different time intervals, 20 seconds, 40 seconds, 60 seconds, 80 seconds, 100 seconds, 120 seconds.
+In experiment four, the mixing table for the pH experiment requires the addition of pH 3, 5, 7 and 9 buffer, H2O2, extract, and guaiacol dye. The effect of pH on Peroxidase activity is measured at different time intervals, 20 seconds, 40 seconds, 60 seconds, 80 seconds, 100 seconds, 120 seconds.
+In all experiments, the rate of the reaction is measured by spectrophotometry and recorded as absorbance at 500 nm. The data obtained from the experiments can be used to determine the optimal conditions for the activity of Peroxidase and the effect of competitive inhibition, temperature and pH on its activity.
+
+Data: Experiment 1 
+Table 1 – Mixing Table for Boiled Peroxidase Experiment
+Tube Number 	pH 5 Buffer (mL)	H₂O₂ (mL)	Unboiled Extract (Enzyme)	Boiled Extract (Enzyme)	Guaiacol Dye
+1 (Blank)	5.00	2.00	0.00	0.00	1.00
+2	0.00	2.00	0.00	0.00	1.00
+3	4.00	0.00	1.00	0.00	0.00
+4	0.00	2.00	0.00	0.00	1.00
+5	4.00	0.00	0.00	1.00	0.00
+
+Time (Sec)	Normal Extract (Tubes 2 & 3)	Boiled Extract (Tubes 4 & 5)
+20	0.33	0.01
+40	0.50	0.02
+60	0.61	0.02
+80	0.72	0.03
+100	0.82	0.03
+120	0.91	0.03
+Table 2 – Data for Effect of Boiling on Peroxidase Activity
+
+Experiment 2
+Tube Number 	pH 5 Buffer (mL)	H₂O₂ (mL)	Normal Extract (Enzyme)	Hydroxylamine-Treated Extract (Enzyme)	Guaiacol Dye
+1 (Blank)	5.00	2.00	0.00	0.00	1.00
+2	0.00	2.00	0.00	0.00	1.00
+3	4.00	0.00	1.00	0.00	0.00
+4	0.00	2.00	0.00	0.00	1.00
+5	4.00	0.00	0.00	1.00	0.00
+Table 1 – Mixing Table for Hydroxylamine-Treated Peroxidase Experiment
+
+Time (Sec)	Normal Extract (Tubes 2 & 3)	Hydroxylamine- Treated Enzyme (Tubes 4 & 5)
+20	0.60	0.12
+40	0.76	0.21
+60	0.91	0.30
+80	1.05	0.38
+100	1.17	0.45
+120	1.29	0.51
+Table 2 – Data for Effect of Hydroxylamine on Peroxidase Activity
+
+Experiment 3 
+Tube Number 	pH 5 Buffer (mL)	H₂O₂ (mL)	Extract (Enzyme)	Guaiacol Dye
+1 (Blank)	5.00	2.00	0.00	0.00
+2	0.00	2.00	0.00	1.00
+3	4.00	0.00	1.00	0.00
+4	0.00	2.00	0.00	1.00
+5	4.00	0.00	1.00	0.00
+6	0.00	2.00	0.00	1.00
+7	4.00	0.00	1.00	0.00
+8	0.00	2.00	0.00	1.00
+9	4.00	0.00	1.00	0.00
+Table 1 – Mixing Table for Temperature Experiment
+
+Time (Sec)	5°C (Tubes 2 & 3)	18.6°C (Tubes 4 & 5)	32°C (Tubes 6 & 7)	48°C (Tubes 8 & 9)
+20	0.29	0.34	0.53	0.24
+40	0.40	0.49	0.73	0.29
+60	0.52	0.62	0.89	0.34
+80	0.61	0.73	1.04	0.37
+100	0.71	0.83	1.16	0.41
+120	0.80	0.91	1.28	0.44
+Table 2 – Data for Temperature Effects on Peroxidase Activity
+
+
+Experiment 4 
+Tube Number 	pH 5 Buffer (mL)	H₂O₂ (mL)	Extract (Enzyme)	Guaiacol Dye
+
+1 (Blank)	5.00	2.00	0.00	1.00
+2	0.00	2.00	0.00	1.00
+3	4.00	0.00	1.00	0.00
+4	0.00	2.00	0.00	1.00
+5	4.00	0.00	1.00	0.00
+6	0.00	2.00	0.00	1.00
+7	4.00	0.00	1.00	0.00
+8	0.00	2.00	0.00	1.00
+9	4.00	0.00	1.00	0.00
+Table 1 – Mixing Table for pH Experiment
+
+Time (Sec)	pH 3 (Tubes 2 & 3)	pH 5 (Tubes 4 & 5)	pH 7 (Tubes 6 & 7)	pH 9 (Tubes 8 & 9)
+20	0.19	0.31	0.25	0.12
+40	0.25	0.47	0.32	0.16
+60	0.30	0.61	0.39	0.19
+80	0.35	0.72	0.45	0.22
+100	0.39	0.82	0.51	0.25
+120	0.44	0.93	0.56	0.27
+Table 2 – Data for pH Effect on Peroxidase Activity
+
+
+Results
+For experiment one, the data presented in the table shows that the absorbance readings of the normal extract were consistently higher than those of the boiled extract over time, suggesting greater enzyme activity in the normal extract. The line chart enables the data to be seen visually. The graph shows that the normal extract was consistently higher than that of the boiled extract over time, suggesting greater enzyme activity in the normal extract.
+	For experiment two, the data presented in the table shows the absorbance readings of the normal extract and hydroxylamine-treated enzyme over time in an enzyme activity experiment. The line chart enables the data to be seen visually. The graph displays a line chart that shows the normal extract had consistently higher absorbance readings than the hydroxylamine-treated enzyme over time, suggesting greater enzyme activity in the normal extract.
+	For experiment three, the data table presented in this table shows the absorbance readings of four different temperatures (5°C, 18.6°C, 32°C, and 48°C) over time in an enzyme activity experiment. The line chart enables the data to be seen visually. The graph displays four lines, each representing the absorbance readings for a different temperature. The graph shows that the enzyme activity increases with temperature up to a certain point and then decreases as the temperature continues to increase.
+	For experiment four, the data show the activity of an enzyme at different pH values. The results are presented in a table with time (in seconds) and the corresponding enzyme activity (measured in absorbance units) for each pH condition. The graph for this data shows the trend of enzyme activity at different pH values over time.
+
+
+Discussion
+In the first experiment, the effect of boiling on Peroxidase activity was examined. Boiling is a common method of denaturing enzymes, and it was expected that boiling Peroxidase would cause a significant decrease in its activity. The results of the experiment supported this hypothesis, as the boiled extract showed a lower rate of reaction compared to the unboiled extract. This suggests that the boiling process denatured the Peroxidase enzyme, leading to a decrease in its catalytic activity.
+Furthermore, the rate of reaction decreased over time for both the boiled and unboiled extract, indicating that the enzyme became less effective as the reaction progressed. This may be due to the depletion of the enzyme or the buildup of reaction products that may have inhibited the enzyme's activity. The results of this experiment are in line with previous studies that have shown that heat can denature enzymes and decrease their activity.
+The data obtained from this experiment is valid, as the experiment and the results were consistent and reproducible. These findings have practical importance, as they suggest that Peroxidase activity can be controlled by heat treatment, which could have applications in biotechnology and industrial processes.
+In the second experiment, the effect of hydroxylamine on Peroxidase activity was examined. Hydroxylamine is a reducing agent that has been shown to reduce the heme group of Peroxidase, leading to a decrease in its activity. As expected, the results of the experiment showed that hydroxylamine treatment significantly decreased Peroxidase activity compared to the normal extract. This indicates that the heme group is essential for the catalytic activity of Peroxidase, and its drop leads to a decrease in activity.
+Interestingly, the rate of reaction for the hydroxylamine-treated extract did not decrease significantly over time, indicating that the Peroxidase enzyme remained stable during the course of the experiment. This suggests that hydroxylamine treatment did not cause denaturation or degradation of the enzyme, but rather a reversible reduction in its activity.
+The data obtained from this experiment is valid, as the experiment and the results were consistent and reproducible. These findings have practical importance, as they suggest that Peroxidase activity can be controlled by hydroxylamine treatment, which could have applications in biotechnology and industrial processes.
+In experiment three, the effect of temperature on Peroxidase activity was examined. The results indicated that the activity of Peroxidase increased with increasing temperature up to a certain point, after which the activity decreased. At 5°C, the enzyme activity was very low, but it increased steadily as the temperature was increased to 18.6°C and 32°C. However, at 48°C, the enzyme activity decreased significantly, suggesting that the Peroxidase enzyme is sensitive to high temperatures. This result is consistent with the known temperature sensitivity of enzymes.
+The optimal temperature for the activity of Peroxidase was found to be around 32°C, which is consistent with previous studies that have reported an optimal temperature around 35°C. The increase in Peroxidase activity with increasing temperature can be attributed to the higher kinetic energy of the reactants, which leads to more frequent collisions between the enzyme and the substrate. However, at high temperatures, the enzyme's structure may begin to denature, resulting in a loss of activity.
+In experiment four, the effect of pH on Peroxidase activity was investigated. The results showed that the activity of the enzyme was highest at a pH of 5, with activity decreasing at both lower and higher pH values. This result is consistent with the known pH sensitivity of enzymes.
+The mechanism behind the pH sensitivity of Peroxidase is related to the ionization of amino acid residues on the enzyme's active site. The optimal pH range for Peroxidase is around 4-6, which suggests that the active site contains amino acid residues with a pKa value in this range. At pH values below or above this range, the ionization state of these will change, resulting in a less favorable active site for substrate binding and catalysis.
+Overall, these experiments provide valuable information about the factors that affect the activity of Peroxidase, which is an important enzyme in many biological processes. The results indicate that the activity of Peroxidase is affected by temperature, pH, and competitive inhibition, and that optimal conditions for its activity can be identified. The findings can be used to optimize the conditions for the use of Peroxidase in various applications, such as in industrial processes for the removal of pollutants, and in medical applications for the diagnosis and treatment of diseases.
+
+
+References
+•	"Peroxidase." Biology Online, www.biologyonline.com/dictionary/peroxidase. Accessed 9 Mar. 2023.
+•	"Denaturation." Biology Online, www.biologyonline.com/dictionary/denaturation. Accessed 9 Mar. 2023.
+•	"Enzymes." Biotopics, www.biotopics.co.uk/A15/Enzymes.html. Accessed 9 Mar. 2023.
+•	"Enzyme." National Human Genome Research Institute, www.genome.gov/genetics-glossary/Enzyme. Accessed 9 Mar. 2023.
+•	Hillis, David M. Principles of Life Digital Update, 3e. Macmillan Learning, 2022. VitalSource Bookshelf, https://macmillian.vitalsource.com/books/9781319450267.
+•	Motamed, Sepideh, Farnoosh Ghaemmaghami, and Iran Alemzadeh. "Turnip (Brassica rapa) Peroxidase: Purification and Characterization." Industrial & Engineering Chemistry Research, vol. 48, no. 23, 2009, pp. 10614-10618, doi: 10.1021/ie801997e.
+•	Kim, Min-Sik, et al. "Horseradish peroxidase as a label for electrochemical immunoassay of alpha-fetoprotein." Sensors (Basel, Switzerland), vol. 14, no. 12, 2014, pp. 22719-22729. PubMed Central, doi:10.3390/s141222719.
+•	Gjörup, S., Sing, T., Woldike, H., Lüders, H., Iversen, J. J., & Dano, K. (1975). Peptide Mapping Studies on Glycoproteins. Institute of Biochemical Genetics, University of Copenhagen.
+
